@@ -13,7 +13,7 @@ BrokenRecord::Finder.print_report
 
 Add this line to your application's Gemfile:
 
-    gem 'broken_record'
+    gem 'broken_record', :github => 'coderly/broken_record'
 
 And then execute:
 
